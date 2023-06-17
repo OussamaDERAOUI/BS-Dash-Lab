@@ -1,4 +1,4 @@
-# BS-Dash-Lab (main.py)
+# main.py
 The main features of the dashboard include:
 
 1. A table displaying the IMDB movies dataset.
